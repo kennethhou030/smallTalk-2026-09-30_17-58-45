@@ -40,6 +40,8 @@
     "com.unity.modules.xr": "1.0.0",
     "com.unity.ai.assistant": "2.20.0-pre.1",
     "com.unity.ai.inference": "2.6.1",
-    "com.unity.pipeline": "0.8.0-exp.1"
+    "com.unity.pipeline": "0.8.0-exp.1",
+    "com.unity.netcode.gameobjects": "2.13.3",
+    "com.unity.multiplayer.playmode": "2.0.2"
   }
 }
